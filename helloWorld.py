@@ -1,1 +1,2 @@
-print(Git is awesome!') 
+user_input = ('Enter your input here: ') 
+print(user_input) 
